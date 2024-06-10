@@ -1,0 +1,160 @@
+body {
+    background-color: black;
+    margin-left: 30px;
+}
+
+h1 {
+    color: white;
+    font-size: 175px;
+    margin-left: 1300px;
+    margin-top: -300px;
+}
+
+h2{
+    color: white;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagem1{
+    width: 10px;
+    margin-top: 100px;
+}
+
+.imagem2{
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+.imagem3{
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+.menu{
+    display: flex;
+    font-size: 30px;
+    margin-top: -100px;
+}
+
+.menu-item{
+    margin-left: 70px;
+}
+
+a:link{
+    color: crimson
+}
+
+a:visited{
+    color: crimson;
+}
+
+.projetos{
+    margin-left: 20px;
+}
+
+.contatos{
+    margin-left: 30px;
+}
+
+.email{
+    size: 80px;
+}
+
+.imagens{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+
+.proj{
+    display: flex;
+    margin-left: 580px;
+    margin-top: 200px;
+}
+
+.app{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.img1{
+    display: flex;
+    margin-left: 400px;
+    margin-top: -700px;
+}
+
+.img2{
+    display: flex;
+    margin-left: 500px;
+    margin-top: 0px;
+}
+
+.img3{
+    display: flex;
+    margin-left: 600px;
+    margin-top: 0px;
+}
+
+.img4{
+    display: flex;
+    margin-left: 700px;
+    margin-top: 0px;
+}
+
+.img5{
+    display: flex;
+    margin-left: 800px;
+    margin-top: 0px;
+}
+
+.img6{
+    display: flex;
+    margin-left: 900px;
+    margin-top: 0px;
+}
+
+.img7{
+    display: flex;
+    margin-left: 900px;
+    margin-top: -350px;
+}
+
+.img8{
+    display: flex;
+    margin-left: 900px;
+    margin-top: 50px;
+}
+
+.img9{
+    display: flex;
+    margin-left: 900px;
+    margin-top: 50px;
+}
+
+.img10{
+    display: flex;
+    margin-left: 900px;
+    margin-top: -400px;
+}
+
+.img11{
+    display: flex;
+    margin-left: 900px;
+    margin-top: 50px;
+}
+
+.img12{
+    display: flex;
+    margin-left: 900px;
+    margin-top: 50px;
+}
+
+.img13{
+    display: flex;
+    margin-left: 900px;
+    margin-top: 50px;
+}
